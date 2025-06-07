@@ -1,4 +1,4 @@
-# Proyek UAS Komputasi Numerik - Dekomposisi Sinyal EKG Menggunakan Transformasi Fourier dengan Metode Minimisasi L1 dan L2
+# Proyek UAS Komputasi Numerik - Simulasi Dekomposisi Sinyal EKG Menggunakan Metode Aproksimasi Fourier dengan Minimisasi L1 dan L2
 
 **Nama: Putri Kiara Salsabila Arief**  
 **NPM: 2306250743**
